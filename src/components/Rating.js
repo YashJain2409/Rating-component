@@ -12,7 +12,7 @@ const Rating = () => {
     setHideThankyou(false);
   };
   return (
-    <div>
+    <main>
       {!hideRating && (
         <div class="rating">
           <div className="star-container">
@@ -47,7 +47,7 @@ const Rating = () => {
         </div>
       )}
       {!hideThankyou && <Thankyou rating={active}/>}
-    </div>
+    </main>
   );
 };
 
