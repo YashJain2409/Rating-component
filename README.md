@@ -4,7 +4,7 @@ An Interactive rating component built with react for frontend mentor challenge.
 
 ## Set up your local environment
 
-fork [this](https://github.com/YashJain2409/ResultManagementSystem) repository
+fork [this](https://github.com/YashJain2409/Rating-component) repository
 
 Clone the project
 
