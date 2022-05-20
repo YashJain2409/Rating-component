@@ -1,4 +1,4 @@
-# Result Management System
+# Rating Component
 
 An Interactive rating component built with react for frontend mentor challenge.
 
